@@ -1,0 +1,14 @@
+const String btcIcon = "assets/icons/btc_icon.png";
+const String ltcIcon = "assets/icons/ltc_icon.png";
+const String ethIcon = "assets/icons/eth_icon.png";
+const String historyIcon = "assets/icons/history.png";
+const String one = "assets/icons/0-10.png";
+const String two = "assets/icons/10-20.png";
+const String three = "assets/icons/20-30.png";
+const String four = "assets/icons/30-40.png";
+const String five = "assets/icons/40-50.png";
+const String six = "assets/icons/50-60.png";
+const String seven = "assets/icons/60-70.png";
+const String eight = "assets/icons/70-80.png";
+const String nine = "assets/icons/80-90.png";
+const String ten = "assets/icons/90-100.png";
